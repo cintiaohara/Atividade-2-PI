@@ -1,0 +1,39 @@
+.estilo1 {
+
+    background-color: beige;
+    width: 500px;
+    height: 500px;
+
+
+}
+
+.estilo2 {
+
+    background-color: rgb(184, 182, 179);
+    width: 50%;
+    height: 50%;
+
+}
+
+.estilo3 {
+
+    color: white;
+    background-color: green;
+    font-size: 14px;
+    font-style: arial;
+    font-weight: bold;
+}
+
+.estilo4 {
+
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(255, 212, 255);
+}
+
+.estilo5 {
+
+    width: 75vw;
+    height: 50%;
+    background-color: hsl(0, 100%, 50%);
+}
